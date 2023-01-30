@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/swastin/programingspot/issues"
   },
-  "homepage": "https://github.com/swastin/programingspot#readme"
+  "homepage": "https://github.com/swastin/programingspot#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
 }
